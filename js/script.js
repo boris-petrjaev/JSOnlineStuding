@@ -19,4 +19,4 @@ personalMovieDB.movies[a] = b;
 //     movieName: questionOne,
 //     movieMark: questionTwo
 // };
-console.log(personalMovieDB); // почти
+console.log(personalMovieDB); // почти правлиьно 
